@@ -1,3 +1,8 @@
+# Food App
+ This is a simple food app which gives ypu the list of foods and their ingredients
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
