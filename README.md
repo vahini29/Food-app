@@ -4,7 +4,7 @@
  
  This app is built using react
  
- <img src="Screenshot (196).png" width="30%"> 
+ <img src="Screenshot (196).png"> 
 
 
 
