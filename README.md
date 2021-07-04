@@ -1,5 +1,10 @@
 # Food App
  This is a simple food app which gives ypu the list of foods and their ingredients
+ # About this app
+ 
+ This app is built using react
+ 
+ <img src="UI_Screenshots/Picture1.png" width="30%"> 
 
 
 
